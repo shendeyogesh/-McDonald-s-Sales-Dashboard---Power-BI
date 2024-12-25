@@ -1,4 +1,4 @@
-McDonald's-Sales 
+# McDonald's-Sales 
 This project is a Sales Analytics Dashboard designed for McDonald’s to provide actionable insights into its sales performance. The dashboard delivers key metrics, revenue trends, and performance breakdowns by category, time, and shift. Its interactive design enables decision-makers to analyze data effectively and optimize operations.
 
 Dataset Link:
