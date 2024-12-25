@@ -1,9 +1,9 @@
 # McDonald's-Sales 
 This project is a Sales Analytics Dashboard designed for McDonald’s to provide actionable insights into its sales performance. The dashboard delivers key metrics, revenue trends, and performance breakdowns by category, time, and shift. Its interactive design enables decision-makers to analyze data effectively and optimize operations.
 
-#Dataset Link:
+# Dataset Link:
 
-#Key Features
+# Key Features
 
 Overview Metrics:
 
@@ -29,13 +29,13 @@ Interactive Filters:
 
 Custom filters for food type, dish name, week, and month allow users to drill down for specific insights.
 
-#Technologies Used
+# Technologies Used
 Visualization Tools: Power BI.
 Data Sources: CSV File exports from kaggle Dataset.
 Design: Intuitive layout with user-friendly navigation for stakeholders.
 
-#How to Use:
+# How to Use:
 Open the dashboard in the respective visualization tool Power BI.
 Use the filters on the left-hand side to refine data by food type, dish name, week, or month.
 Hover over charts to view detailed revenue contributions and trends.
-Analyze visualizations to gain insights into top-performing categories, peak times, and shifts.`
+Analyze visualizations to gain insights into top-performing categories, peak times, and shifts.
